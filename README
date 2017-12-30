@@ -12,5 +12,5 @@ i2c_oled_128x64.c : Display example for Oled module connecting to Widora with I2
 
 Note:
 1. Modify cross compiler path in the Makefile according to your own Widora openwrt directories.
-2. Run 'make all' to compile all three applications.
-3. Run 'make clean' to remove all three exe files.
+2. Run 'make all' to compile all 5 applications.
+3. Run 'make clean' to remove all 5 exe files.
